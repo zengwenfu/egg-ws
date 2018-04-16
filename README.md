@@ -59,7 +59,7 @@ module.exports = app => {
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/zengwenfu/egg-ws/issues).
 
 ## License
 
