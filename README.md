@@ -1,11 +1,13 @@
-# egg-ws
+# egg-wss
 egg plugin for websocket
 
 ## Install
 
 ```bash
-$ npm i egg-ws --save
+$ npm i egg-wss --save
 ```
+
+ps: the npm package name is "**egg-wss**" (not "egg-ws"), because the "egg-ws" is use by someone, but do nothing
 
 ## Requirements
 
@@ -20,7 +22,7 @@ Change `${app_root}/config/plugin.js` to enable Socket.IO plugin:
 // {app_root}/config/plugin.js
 exports.io = {
   enable: true,
-  package: 'egg-ws',
+  package: 'egg-wss',
 };
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "egg-ws",
+  "name": "egg-wss",
   "version": "1.0.0",
   "description": "egg websocket plugin",
   "main": "app.js",
