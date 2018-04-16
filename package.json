@@ -1,0 +1,26 @@
+{
+  "name": "egg-ws",
+  "version": "1.0.0",
+  "description": "egg websocket plugin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengwenfu/egg-ws.git"
+  },
+  "keywords": [
+    "egg",
+    "websocket"
+  ],
+  "author": "zengwenfu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengwenfu/egg-ws/issues"
+  },
+  "homepage": "https://github.com/zengwenfu/egg-ws#readme",
+  "dependencies": {
+    "ws": "^5.1.1"
+  }
+}
