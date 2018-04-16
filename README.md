@@ -20,7 +20,7 @@ Change `${app_root}/config/plugin.js` to enable Socket.IO plugin:
 
 ```js
 // {app_root}/config/plugin.js
-exports.io = {
+exports.wss = {
   enable: true,
   package: 'egg-wss',
 };
